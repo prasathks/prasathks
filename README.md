@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=180&section=header&text=PRASATH%20K%20S&fontSize=42&fontAlignY=38&desc=Java%20Full-Stack%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Backend%20Architectures&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=180&section=header&text=PRASATH%20K%20S&fontSize=42&fontAlignY=38&desc=Java%20Full-Stack%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Backend%20Architectures&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/prasathks">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=650&lines=System.out.println(%22Hello%2C%20World!%22)%3B;Java+Full-Stack+%26+Backend+Engineer;Crafting+Scalable+Spring+Boot+Microservices;Infosys+Springboard+Developer+Intern;SIH+'24+%26+'25+Selected+Participant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7DCFFF&center=true&vCenter=true&width=650&lines=System.out.println(%22Hello%2C%20World!%22)%3B;Java+Full-Stack+%26+Backend+Engineer;Crafting+Scalable+Spring+Boot+Microservices;Infosys+Springboard+Developer+Intern;SIH+'24+%26+'25+Selected+Participant" alt="Typing SVG" />
   </a>
 
   <p align="center">
