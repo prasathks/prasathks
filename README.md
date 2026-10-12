@@ -48,9 +48,9 @@ public class PrasathKS {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ CiviCore</h3>
+      <h3>🏛️ <a href="https://github.com/prasathks/civicore">CiviCore</a></h3>
       <p><b>Civic Operations & Waste Lifecycle Platform</b></p>
-      <p>End-to-end municipal complaint dispatching platform with automated <b>SLA escalation triggers</b>, department routing, and role-based authority dashboards.</p>
+      <p>End-to-end municipal complaint dispatching platform with automated <b>SLA escalation triggers</b>, dynamic department routing, and role-based authority dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
@@ -60,7 +60,7 @@ public class PrasathKS {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 LibReserve</h3>
+      <h3>📚 <a href="https://github.com/prasathks/libreserve">LibReserve</a></h3>
       <p><b>Smart Priority Reservation & Fine Engine</b></p>
       <p>Intelligent library resource engine featuring <b>priority-based waitlist scheduling</b>, automated fine computation, and dynamic inventory turnover allocation.</p>
       <p>
@@ -69,6 +69,20 @@ public class PrasathKS {
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚡ <a href="https://github.com/prasathks/grid-guard-fault-detection">Grid Guard</a></h3>
+      <p><b>AI-Powered Smart Grid Fault Detection System</b></p>
+      <p>Edge AI distribution monitor detecting live conductor snaps and High-Impedance Faults (HIF) in real time. Deployed a quantized CNN model achieving <b>98.7% accuracy with 77ms latency</b> integrated with a self-healing <b>LoRa mesh network</b> spanning up to 4.8 km.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+        <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/LoRa-004B87?style=flat-square" alt="LoRa"/>
+        <img src="https://img.shields.io/badge/Edge_AI-333333?style=flat-square" alt="Edge AI"/>
       </p>
     </td>
   </tr>
